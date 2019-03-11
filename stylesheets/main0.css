@@ -1,0 +1,133 @@
+*{
+  font-family: helvetica;
+}
+
+p {
+  color: black;
+  font-size: .5em;
+}
+
+.main-header{
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 3%;
+  padding-top: 2%;
+  background-color: black;
+  color: white;
+  font-size: 1em;
+}
+
+.left-header{
+  display: inline;
+  float: left;
+  width: 84%;
+  padding-left: 1%;
+}
+
+.right-header{
+  display: inline;
+  float: right;
+  /* text-align: right; */
+  width: 14%;
+  padding-left: 1%;
+  background-color: green;
+}
+
+button{
+  background-color: green;
+  display: inline;
+  text-align: right;
+  color:white;
+  padding: 2%;
+}
+/*
+body {
+  margin-top: 1px;
+  margin-right: 1.5px;
+  margin-bottom: 4px;
+  margin-left: 1.5px;
+  background-color: white;
+}
+
+.navbar{
+  text-align: right;
+  background-color: blue;
+  font-size: 8pt;
+  color: #fff;
+  padding: .075%;
+}
+
+.navbar ul{
+  padding: 0;
+  list-style: none;
+}
+
+.navbar li{
+  display: inline;
+  color: #fff;
+  text-decoration: underline;
+  font-size: 10px;
+  padding: .5%;
+}
+
+.main-block{
+  float: left;
+  width: 73%;
+  padding: 1%;
+  box-sizing: border-box;
+}
+
+.main-block h5{
+  display: block;
+  font-size: 0.83em;
+  font-weight: bold;
+  margin-left: 0%;
+  margin-top: 1.025%;
+  margin-bottom: 1.025%;
+}
+
+.side-bar{
+  float: right;
+  width: 21%;
+  background-color: 000;
+  color: black;
+  padding-left: 3%;
+  padding-right: 2%;
+  font-size: 10px;
+}
+
+.box{
+  float: right;
+  padding-top: 10%
+}
+
+.box img{
+  padding: 0;
+  margin: 0;
+}
+
+.box h3{
+  margin: 0;
+}
+
+img{
+  height: 100%;
+  width: 100%
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #333;
+  margin-right: 2%;
+  margin-left: .2%;
+  border: 1%;
+  }
+
+  .footer p{
+    padding: 1%;
+    color: white;
+  } */
